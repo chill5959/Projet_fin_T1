@@ -15,3 +15,4 @@ for s in $services; do
 done
 
 echo " $fonctionnepas service non fonctionnel" 
+#okok
