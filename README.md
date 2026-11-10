@@ -1,3 +1,8 @@
+
+![alt text](makesweet-5v86gl.gif)
+
+
+
 Nom Prénom Pseudonyme GitHub Rôle
 GOEGEBEUR Théo @chill5959 Étudiant 2
 COQUEL Samuel @samasam59 Étudiant 1
